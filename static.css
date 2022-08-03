@@ -454,7 +454,7 @@ input:focus{
 
 .questions {
     height: 34.563rem;
-    background-image: url("/images/faq-img.png");
+    background-image: url("images/faq-img.png");
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: var(--hero-section-blue); */
